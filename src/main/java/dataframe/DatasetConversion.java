@@ -21,10 +21,6 @@ public class DatasetConversion {
         private int id;
         private int id1;
         private int id2;
-
-        private int id3;
-        private int id4;
-
         private String name;
         private double sales;
         private double discount;
