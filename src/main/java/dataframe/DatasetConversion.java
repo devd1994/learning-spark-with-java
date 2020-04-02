@@ -19,6 +19,8 @@ public class DatasetConversion {
     //
     public static class Cust implements Serializable {
         private int id;
+        private int id1;
+        private int id2;
         private String name;
         private double sales;
         private double discount;
